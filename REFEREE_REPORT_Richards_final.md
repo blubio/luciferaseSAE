@@ -194,6 +194,9 @@ prior for an unaudited figure in this repository is no longer benign.
   coordinates.
 - **M-5.** The repository URL in the manuscript is still
   `https://github.com/<set-before-submission>/translator`.
+  *Resolved 2026-11-17: repository published as `https://github.com/blubio/luciferaseSAE`; the
+  manuscript's Data Availability statement now carries that URL. The placeholder
+  quoted above is retained as the record of the finding.*
 - **M-6.** `_view_002_fig11_apo_md_corrected.png` is a stray debug render in the
   repository root.
 

@@ -626,7 +626,7 @@ Three independent **apo** (ligand-free) simulations were run in OpenMM 8 on a si
 
 ## Data and Code Availability
 All curated datasets, model checkpoints, reproducible Python scripts, Jupyter/Colab notebooks, and high-resolution figures are openly available in the project repository:  
-`https://github.com/<set-before-submission>/translator`
+`https://github.com/blubio/luciferaseSAE`
 
 ---
 

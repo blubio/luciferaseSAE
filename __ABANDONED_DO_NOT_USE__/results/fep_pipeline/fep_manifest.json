@@ -1,0 +1,108 @@
+{
+  "protocol": "Non-Equilibrium Fast-Switching FEP (Crooks Fluctuation Theorem / BAR)",
+  "thermodynamic_cycle": {
+    "state_0": "Wild-Type Paralog (Leu347, Steric Clash)",
+    "state_1": "SAE-Steered Gate (Ser347, Plastic Loop Breathing)",
+    "solvent_leg": "L347 -> S347 in explicit TIP3P water box (\u0394G_solv)",
+    "complex_leg": "L347 -> S347 in DLSA-bound enzyme pocket (\u0394G_complex)",
+    "net_ddg": "\u0394\u0394G_bind = \u0394G_complex - \u0394G_solv"
+  },
+  "sampling_basis": {
+    "source": "Uncorrelated snapshots from 10.0 ns equilibrium trajectories (5.0 - 10.0 ns)",
+    "n_forward_transitions": 20,
+    "n_reverse_transitions": 20,
+    "switching_time_ps": 100,
+    "integration_timestep_fs": 4.0
+  },
+  "prospective_hpc_extension": {
+    "n_sequences": 192,
+    "n_windows": 20,
+    "status": "Architecture retained for multi-GPU cluster scaling"
+  },
+  "complex_snapshots": {
+    "1_A0A8K0DA02_TrueLuc_WT_S347_SLU_holo": {
+      "label": "True Luc WT S347",
+      "dcd_path": "c:\\Users\\pagli\\Desktop\\translator\\md_trajectories_10ns\\1_A0A8K0DA02_TrueLuc_WT_S347_SLU_holo\\prod.dcd",
+      "top_path": "c:\\Users\\pagli\\Desktop\\translator\\md_trajectories_10ns\\1_A0A8K0DA02_TrueLuc_WT_S347_SLU_holo\\solvated.pdb",
+      "sampled_frame_indices": [
+        250,
+        263,
+        276,
+        289,
+        302,
+        315,
+        328,
+        341,
+        354,
+        367,
+        381,
+        394,
+        407,
+        420,
+        433,
+        446,
+        459,
+        472,
+        485,
+        499
+      ],
+      "n_sampled": 20
+    },
+    "2_A0A8K0C7P5_Paralog_WT_L347_SLU_holo": {
+      "label": "Paralog WT L347",
+      "dcd_path": "c:\\Users\\pagli\\Desktop\\translator\\md_trajectories_10ns\\2_A0A8K0C7P5_Paralog_WT_L347_SLU_holo\\prod.dcd",
+      "top_path": "c:\\Users\\pagli\\Desktop\\translator\\md_trajectories_10ns\\2_A0A8K0C7P5_Paralog_WT_L347_SLU_holo\\solvated.pdb",
+      "sampled_frame_indices": [
+        250,
+        263,
+        276,
+        289,
+        302,
+        315,
+        328,
+        341,
+        354,
+        367,
+        381,
+        394,
+        407,
+        420,
+        433,
+        446,
+        459,
+        472,
+        485,
+        499
+      ],
+      "n_sampled": 20
+    },
+    "3_A0A8K0C7P5_Paralog_SAESteered_S347A348N349_SLU_holo": {
+      "label": "SAE-Steered S347A348N349",
+      "dcd_path": "c:\\Users\\pagli\\Desktop\\translator\\md_trajectories_10ns\\3_A0A8K0C7P5_Paralog_SAESteered_S347A348N349_SLU_holo\\prod.dcd",
+      "top_path": "c:\\Users\\pagli\\Desktop\\translator\\md_trajectories_10ns\\3_A0A8K0C7P5_Paralog_SAESteered_S347A348N349_SLU_holo\\solvated.pdb",
+      "sampled_frame_indices": [
+        250,
+        263,
+        276,
+        289,
+        302,
+        315,
+        328,
+        341,
+        354,
+        367,
+        381,
+        394,
+        407,
+        420,
+        433,
+        446,
+        459,
+        472,
+        485,
+        499
+      ],
+      "n_sampled": 20
+    }
+  }
+}

@@ -1,0 +1,8 @@
+method	ranks	n
+nn_identity	5;7	61
+knn_homology	7;2	61
+composition	4;19	61
+esm2_t12_35M_UR50D:last	4;1	61
+esm2_t12_35M_UR50D:cvlayer4	7;5	61
+esm2_t30_150M_UR50D:last	5;4	61
+esm2_t30_150M_UR50D:cvlayer4	3;2	61

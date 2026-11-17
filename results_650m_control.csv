@@ -1,0 +1,6 @@
+representation,dim,auroc,ap,nnz,ignelater_ranks,ap_sd
+Dense ESM-2 650M (layer 18),1280,0.8904722531940377,0.5118228683356023,20,"[5, 7]",
+"Dense, matched sparsity",1280,0.8442320639385466,0.4266968590535332,24,"[4, 7]",
+Random Gaussian projection (10 seeds),10240,0.9286738128760769,0.688924992718954,0,"[np.int64(3), np.int64(6)]",+/- 0.212
+Random ReLU projection (10 seeds),10240,0.8904489390272856,0.6060609774808341,0,"[np.int64(4), np.int64(9)]",+/- 0.180
+InterPLM-650M SAE (layer 18),10240,0.81457228540181,0.3871938372837872,24,"[7, 8]",

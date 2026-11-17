@@ -1,0 +1,8 @@
+UniProt usage notice
+Timestamp: 2026-11-10T02:12:40-03:00
+
+This project retrieves data from the UniProt Knowledgebase (UniProtKB).
+The user was notified to review the UniProt license and API terms:
+  - https://www.uniprot.org/help/license
+  - https://www.uniprot.org/help/api_queries
+UniProt data is distributed under CC BY 4.0; cite UniProt when publishing results.

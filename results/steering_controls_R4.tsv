@@ -1,0 +1,37 @@
+target	condition	alpha	d_logodds	fold	scaffold_pct	kl
+CG6178 (Drosophila FruitFire)	pocket Top-50 SAE	0.0	+0.0000	1.00	100.00	0.00000
+CG6178 (Drosophila FruitFire)	pocket Top-50 SAE	0.5	+0.0003	1.00	100.00	0.00004
+CG6178 (Drosophila FruitFire)	pocket Top-50 SAE	1.0	+1.6986	5.47	100.00	0.00026
+CG6178 (Drosophila FruitFire)	pocket Top-50 SAE	2.0	+5.8822	358.58	99.81	0.00091
+CG6178 (Drosophila FruitFire)	pocket Top-50 SAE	4.0	+6.9272	1019.63	99.81	0.00190
+CG6178 (Drosophila FruitFire)	pocket Top-50 SAE	8.0	+8.9475	7688.65	98.65	0.00645
+CG6178 (Drosophila FruitFire)	DISTAL control (matched norm)	0.0	+0.0000	1.00	100.00	0.00000
+CG6178 (Drosophila FruitFire)	DISTAL control (matched norm)	0.5	+0.0039	1.00	100.00	0.00004
+CG6178 (Drosophila FruitFire)	DISTAL control (matched norm)	1.0	+0.0084	1.01	99.81	0.00235
+CG6178 (Drosophila FruitFire)	DISTAL control (matched norm)	2.0	+0.0051	1.01	99.42	0.00971
+CG6178 (Drosophila FruitFire)	DISTAL control (matched norm)	4.0	+0.0110	1.01	99.03	0.02678
+CG6178 (Drosophila FruitFire)	DISTAL control (matched norm)	8.0	+0.0096	1.01	98.65	0.03900
+A0A0C6DRW5 (Pectocera 58.5% ID)	pocket Top-50 SAE	0.0	+0.0000	1.00	100.00	0.00000
+A0A0C6DRW5 (Pectocera 58.5% ID)	pocket Top-50 SAE	0.5	+0.1603	1.17	100.00	0.00003
+A0A0C6DRW5 (Pectocera 58.5% ID)	pocket Top-50 SAE	1.0	+4.5277	92.54	100.00	0.00028
+A0A0C6DRW5 (Pectocera 58.5% ID)	pocket Top-50 SAE	2.0	+6.8988	991.13	99.81	0.00082
+A0A0C6DRW5 (Pectocera 58.5% ID)	pocket Top-50 SAE	4.0	+8.1872	3594.72	99.81	0.00159
+A0A0C6DRW5 (Pectocera 58.5% ID)	pocket Top-50 SAE	8.0	+10.4395	34184.99	98.67	0.00681
+A0A0C6DRW5 (Pectocera 58.5% ID)	DISTAL control (matched norm)	0.0	+0.0000	1.00	100.00	0.00000
+A0A0C6DRW5 (Pectocera 58.5% ID)	DISTAL control (matched norm)	0.5	-0.0001	1.00	100.00	0.00004
+A0A0C6DRW5 (Pectocera 58.5% ID)	DISTAL control (matched norm)	1.0	-0.0006	1.00	100.00	0.00015
+A0A0C6DRW5 (Pectocera 58.5% ID)	DISTAL control (matched norm)	2.0	-0.0019	1.00	100.00	0.00045
+A0A0C6DRW5 (Pectocera 58.5% ID)	DISTAL control (matched norm)	4.0	-0.0077	0.99	99.81	0.00143
+A0A0C6DRW5 (Pectocera 58.5% ID)	DISTAL control (matched norm)	8.0	-0.0277	0.97	99.43	0.00500
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	pocket Top-50 SAE	0.0	+0.0000	1.00	100.00	0.00000
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	pocket Top-50 SAE	0.5	+0.1068	1.11	100.00	0.00002
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	pocket Top-50 SAE	1.0	+1.5958	4.93	100.00	0.00024
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	pocket Top-50 SAE	2.0	+5.7776	322.98	99.81	0.00083
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	pocket Top-50 SAE	4.0	+6.4910	659.20	99.81	0.00157
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	pocket Top-50 SAE	8.0	+9.3262	11228.49	99.62	0.00633
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	DISTAL control (matched norm)	0.0	+0.0000	1.00	100.00	0.00000
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	DISTAL control (matched norm)	0.5	+0.0008	1.00	100.00	0.00005
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	DISTAL control (matched norm)	1.0	+0.0021	1.00	100.00	0.00020
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	DISTAL control (matched norm)	2.0	+0.0039	1.00	99.81	0.00654
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	DISTAL control (matched norm)	4.0	+0.0050	1.01	99.43	0.01730
+A0A8K0C7P5 (Ignelater Decoy 54.6% ID)	DISTAL control (matched norm)	8.0	-0.0053	0.99	99.43	0.02238

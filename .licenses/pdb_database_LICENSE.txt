@@ -1,0 +1,6 @@
+RCSB PDB usage notice
+Timestamp: 2026-11-10T05:00:30-03:00
+
+This project retrieves data from the RCSB Protein Data Bank (PDB).
+The user was notified to review the RCSB PDB usage policy at:
+  - https://www.rcsb.org/pages/usage-policy

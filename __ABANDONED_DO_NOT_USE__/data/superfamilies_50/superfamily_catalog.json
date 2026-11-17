@@ -1,0 +1,452 @@
+{
+  "SF01_ANL": {
+    "name": "ANL Luciferase vs Acyl-CoA Synthetase",
+    "ec": "1.13.12 / 6.2.1",
+    "fold": "ANL Adenylation Fold (Luciferase vs ACSL6)",
+    "func_acc": "P08659",
+    "paralog_acc": "P33124",
+    "func_len": 550,
+    "paralog_len": 697
+  },
+  "SF02_SDR": {
+    "name": "Short-Chain Dehydrogenases (SDR)",
+    "ec": "1.1.1",
+    "fold": "Rossmann SDR Fold",
+    "func_acc": "P00334",
+    "paralog_acc": "P16152",
+    "func_len": 256,
+    "paralog_len": 277
+  },
+  "SF03_CYP": {
+    "name": "Cytochrome P450 Monooxygenases",
+    "ec": "1.14.14",
+    "fold": "CYP Heme-Thiolate Fold",
+    "func_acc": "P00184",
+    "paralog_acc": "P05177",
+    "func_len": 524,
+    "paralog_len": 516
+  },
+  "SF04_ADH": {
+    "name": "Medium-Chain Alcohol Dehydrogenases",
+    "ec": "1.1.1.1",
+    "fold": "MDR Catalytic Zinc Fold",
+    "func_acc": "P00325",
+    "paralog_acc": "P00327",
+    "func_len": 375,
+    "paralog_len": 375
+  },
+  "SF05_LDH_MDH": {
+    "name": "Lactate vs Malate Dehydrogenase",
+    "ec": "1.1.1.27 / 37",
+    "fold": "LDH/MDH Dinucleotide Fold",
+    "func_acc": "P00338",
+    "paralog_acc": "P00346",
+    "func_len": 332,
+    "paralog_len": 338
+  },
+  "SF06_FMO": {
+    "name": "Flavin-Containing Monooxygenases",
+    "ec": "1.14.13",
+    "fold": "FMO Dual-Dinucleotide Fold",
+    "func_acc": "P31513",
+    "paralog_acc": "Q01740",
+    "func_len": 532,
+    "paralog_len": 532
+  },
+  "SF07_SOD": {
+    "name": "Superoxide Dismutase (Cu-Zn)",
+    "ec": "1.15.1.1",
+    "fold": "Greek-Key Beta-Barrel",
+    "func_acc": "P00441",
+    "paralog_acc": "P00442",
+    "func_len": 154,
+    "paralog_len": 152
+  },
+  "SF08_PRX": {
+    "name": "Peroxiredoxins (1-Cys vs 2-Cys)",
+    "ec": "1.11.1.15",
+    "fold": "Thioredoxin-like Fold",
+    "func_acc": "P32119",
+    "paralog_acc": "P30041",
+    "func_len": 198,
+    "paralog_len": 224
+  },
+  "SF09_GAPDH": {
+    "name": "Glyceraldehyde-3-Phosphate DH",
+    "ec": "1.2.1.12",
+    "fold": "NAD-binding Rossmann Fold",
+    "func_acc": "P04406",
+    "paralog_acc": "P00355",
+    "func_len": 335,
+    "paralog_len": 333
+  },
+  "SF10_MAO": {
+    "name": "Monoamine Oxidase (MAO-A vs MAO-B)",
+    "ec": "1.4.3.4",
+    "fold": "FAD Amine Oxidase Fold",
+    "func_acc": "P21397",
+    "paralog_acc": "P27338",
+    "func_len": 527,
+    "paralog_len": 520
+  },
+  "SF11_KINASE": {
+    "name": "Protein Kinases (Tyr vs Ser/Thr)",
+    "ec": "2.7.10 / 11",
+    "fold": "Eukaryotic Protein Kinase Core (Abl vs PKA)",
+    "func_acc": "P00519",
+    "paralog_acc": "P17612",
+    "func_len": 1130,
+    "paralog_len": 351
+  },
+  "SF12_AMINOTRANS": {
+    "name": "PLP Aminotransferases (Asp vs Ala)",
+    "ec": "2.6.1",
+    "fold": "PLP Transferase Fold I",
+    "func_acc": "P17174",
+    "paralog_acc": "P24298",
+    "func_len": 413,
+    "paralog_len": 496
+  },
+  "SF13_GST": {
+    "name": "Glutathione S-Transferases (Alpha vs Mu)",
+    "ec": "2.5.1.18",
+    "fold": "GST Dual-Domain Fold",
+    "func_acc": "P08263",
+    "paralog_acc": "P21266",
+    "func_len": 222,
+    "paralog_len": 225
+  },
+  "SF14_HEXOKINASE": {
+    "name": "Hexokinase vs Glucokinase",
+    "ec": "2.7.1.1",
+    "fold": "Actin-like ATPase Fold",
+    "func_acc": "P19367",
+    "paralog_acc": "P35557",
+    "func_len": 917,
+    "paralog_len": 465
+  },
+  "SF15_METHYLTRANS": {
+    "name": "SAM-Dependent Methyltransferases",
+    "ec": "2.1.1",
+    "fold": "Seven-Strand MTase Fold (COMT vs NNMT)",
+    "func_acc": "P21964",
+    "paralog_acc": "P40261",
+    "func_len": 271,
+    "paralog_len": 264
+  },
+  "SF16_UGT": {
+    "name": "UDP-Glucuronosyltransferases",
+    "ec": "2.4.1",
+    "fold": "GT-B Glycosyltransferase Fold",
+    "func_acc": "P06133",
+    "paralog_acc": "P19224",
+    "func_len": 528,
+    "paralog_len": 532
+  },
+  "SF17_SULT": {
+    "name": "Cytosolic Sulfotransferases",
+    "ec": "2.8.2",
+    "fold": "SULT Alpha/Beta Core",
+    "func_acc": "P50225",
+    "paralog_acc": "P50226",
+    "func_len": 295,
+    "paralog_len": 295
+  },
+  "SF18_GNAT": {
+    "name": "Gcn5-Related N-Acetyltransferases",
+    "ec": "2.3.1",
+    "fold": "GNAT Acetyltransferase Fold",
+    "func_acc": "Q92830",
+    "paralog_acc": "Q92831",
+    "func_len": 837,
+    "paralog_len": 832
+  },
+  "SF19_PFK": {
+    "name": "Phosphofructokinases",
+    "ec": "2.7.1.11",
+    "fold": "Two-Domain PFK Fold",
+    "func_acc": "P08237",
+    "paralog_acc": "P17858",
+    "func_len": 780,
+    "paralog_len": 780
+  },
+  "SF20_DNAPOL": {
+    "name": "DNA Polymerase Family A",
+    "ec": "2.7.7.7",
+    "fold": "Right-Hand Polymerase Fold",
+    "func_acc": "P00582",
+    "paralog_acc": "P19821",
+    "func_len": 928,
+    "paralog_len": 832
+  },
+  "SF21_SER_PROT": {
+    "name": "Serine Proteases (Trypsin vs Chymotrypsin)",
+    "ec": "3.4.21",
+    "fold": "Chymotrypsin Dual-Barrel Fold",
+    "func_acc": "P00760",
+    "paralog_acc": "P00766",
+    "func_len": 246,
+    "paralog_len": 245
+  },
+  "SF22_BLACTAM": {
+    "name": "Serine Beta-Lactamases (Class A vs C)",
+    "ec": "3.5.2.6",
+    "fold": "Penicillin-Binding Protein Core",
+    "func_acc": "P62593",
+    "paralog_acc": "P00811",
+    "func_len": 286,
+    "paralog_len": 377
+  },
+  "SF23_LIPASE": {
+    "name": "Alpha/Beta Hydrolase Lipases",
+    "ec": "3.1.1.3",
+    "fold": "Alpha/Beta Hydrolase Fold (Pancreatic vs Hepatic Lipase)",
+    "func_acc": "P16233",
+    "paralog_acc": "P11150",
+    "func_len": 465,
+    "paralog_len": 499
+  },
+  "SF24_DEHALO": {
+    "name": "Haloalkane Dehalogenases",
+    "ec": "3.8.1.5",
+    "fold": "Alpha/Beta Hydrolase Cap Fold",
+    "func_acc": "P22643",
+    "paralog_acc": "P59336",
+    "func_len": 310,
+    "paralog_len": 294
+  },
+  "SF25_ALKP": {
+    "name": "Alkaline Phosphatases",
+    "ec": "3.1.3.1",
+    "fold": "Phosphatase Bimetallic Scaffold",
+    "func_acc": "P05186",
+    "paralog_acc": "P05187",
+    "func_len": 524,
+    "paralog_len": 535
+  },
+  "SF26_AMYLASE": {
+    "name": "Glycoside Hydrolase Family 13",
+    "ec": "3.2.1.1",
+    "fold": "GH13 TIM-Barrel Fold (Human vs Pig Amylase)",
+    "func_acc": "P0DUB6",
+    "paralog_acc": "P00687",
+    "func_len": 511,
+    "paralog_len": 511
+  },
+  "SF27_CA": {
+    "name": "Carbonic Anhydrases (Alpha Family)",
+    "ec": "4.2.1.1",
+    "fold": "CA 10-Stranded Beta-Sheet",
+    "func_acc": "P00915",
+    "paralog_acc": "P00918",
+    "func_len": 261,
+    "paralog_len": 260
+  },
+  "SF28_PDE": {
+    "name": "Cyclic Nucleotide Phosphodiesterases",
+    "ec": "3.1.4.17",
+    "fold": "PDE All-Alpha Catalytic Domain",
+    "func_acc": "P27815",
+    "paralog_acc": "O00408",
+    "func_len": 886,
+    "paralog_len": 941
+  },
+  "SF29_EPH": {
+    "name": "Epoxide Hydrolases",
+    "ec": "3.3.2.9",
+    "fold": "Alpha/Beta Hydrolase Fold",
+    "func_acc": "P07099",
+    "paralog_acc": "P34913",
+    "func_len": 455,
+    "paralog_len": 555
+  },
+  "SF30_SMALL_GTP": {
+    "name": "Ras Superfamily Small GTPases",
+    "ec": "3.6.5.2",
+    "fold": "G-Domain P-Loop NTPase",
+    "func_acc": "P01112",
+    "paralog_acc": "P61586",
+    "func_len": 189,
+    "paralog_len": 193
+  },
+  "SF31_ALDOLASE": {
+    "name": "Fructose-Bisphosphate Aldolase",
+    "ec": "4.1.2.13",
+    "fold": "TIM-Barrel Class I Aldolase",
+    "func_acc": "P04075",
+    "paralog_acc": "P05062",
+    "func_len": 364,
+    "paralog_len": 364
+  },
+  "SF32_AADC": {
+    "name": "PLP Decarboxylases (Group II)",
+    "ec": "4.1.1.28",
+    "fold": "PLP Decarboxylase Homodimer Fold",
+    "func_acc": "P20711",
+    "paralog_acc": "P17770",
+    "func_len": 480,
+    "paralog_len": 500
+  },
+  "SF33_ENOLASE": {
+    "name": "Enolases (Alpha vs Gamma)",
+    "ec": "4.2.1.11",
+    "fold": "Enolase Beta-Barrel Fold",
+    "func_acc": "P06733",
+    "paralog_acc": "P09104",
+    "func_len": 434,
+    "paralog_len": 434
+  },
+  "SF34_TERPENE": {
+    "name": "Terpene Synthases (Class I)",
+    "ec": "4.2.3",
+    "fold": "Alpha-Helical Terpene Synthase (TPSA vs GES)",
+    "func_acc": "Q9ZUH4",
+    "paralog_acc": "Q93YV0",
+    "func_len": 591,
+    "paralog_len": 877
+  },
+  "SF35_CITRATE": {
+    "name": "Citrate Synthases",
+    "ec": "2.3.3.1",
+    "fold": "CS Alpha-Helical Homodimer (Pig vs Human)",
+    "func_acc": "P00889",
+    "paralog_acc": "O75390",
+    "func_len": 464,
+    "paralog_len": 466
+  },
+  "SF36_TIM": {
+    "name": "Triosephosphate Isomerase",
+    "ec": "5.3.1.1",
+    "fold": "(beta/alpha)8 TIM Barrel",
+    "func_acc": "P60174",
+    "paralog_acc": "P00940",
+    "func_len": 249,
+    "paralog_len": 248
+  },
+  "SF37_PPIASE": {
+    "name": "Peptidyl-Prolyl Cis-Trans Isomerases",
+    "ec": "5.2.1.8",
+    "fold": "Cyclophilin Beta-Barrel (PPIA vs PPIB)",
+    "func_acc": "P62942",
+    "paralog_acc": "P23284",
+    "func_len": 108,
+    "paralog_len": 216
+  },
+  "SF38_TOPO": {
+    "name": "DNA Topoisomerases (Type I)",
+    "ec": "5.6.2.1",
+    "fold": "Topoisomerase Catalytic Core",
+    "func_acc": "P11387",
+    "paralog_acc": "P06786",
+    "func_len": 765,
+    "paralog_len": 1428
+  },
+  "SF39_RACEMASE": {
+    "name": "Alanine Racemases",
+    "ec": "5.1.1.1",
+    "fold": "PLP Alanine Racemase (Alr vs DadX)",
+    "func_acc": "P0A6B4",
+    "paralog_acc": "P29012",
+    "func_len": 359,
+    "paralog_len": 356
+  },
+  "SF40_CHORISMATE": {
+    "name": "Chorismate Mutases (AroH family)",
+    "ec": "5.4.99.5",
+    "fold": "AroH Chorismate Mutase Fold",
+    "func_acc": "P0A9J8",
+    "paralog_acc": "P27603",
+    "func_len": 386,
+    "paralog_len": 365
+  },
+  "SF41_AARS": {
+    "name": "Aminoacyl-tRNA Synthetases (Class I)",
+    "ec": "6.1.1",
+    "fold": "Rossmann Dinucleotide Fold (MetRS vs TrpRS)",
+    "func_acc": "P00959",
+    "paralog_acc": "P04803",
+    "func_len": 677,
+    "paralog_len": 379
+  },
+  "SF42_E3_LIGASE": {
+    "name": "HECT Domain E3 Ubiquitin Ligases",
+    "ec": "6.3.2",
+    "fold": "HECT Catalytic Bilobal Domain",
+    "func_acc": "Q05086",
+    "paralog_acc": "Q96PU5",
+    "func_len": 875,
+    "paralog_len": 975
+  },
+  "SF43_DNALIG": {
+    "name": "ATP-Dependent DNA Ligases",
+    "ec": "6.5.1.1",
+    "fold": "Adenylation & OB-Fold Ligase",
+    "func_acc": "P18858",
+    "paralog_acc": "P49916",
+    "func_len": 919,
+    "paralog_len": 1009
+  },
+  "SF44_BIOTINLIG": {
+    "name": "Biotin Protein Ligases (BirA/BPL)",
+    "ec": "6.4.1.2",
+    "fold": "BirA/BPL Catalytic Core (BirA vs Human HCS)",
+    "func_acc": "P06709",
+    "paralog_acc": "P50747",
+    "func_len": 321,
+    "paralog_len": 726
+  },
+  "SF45_GS": {
+    "name": "Glutamine Synthetase",
+    "ec": "6.3.1.2",
+    "fold": "GS Beta-Grasp Catalytic Core",
+    "func_acc": "P15104",
+    "paralog_acc": "P04773",
+    "func_len": 373,
+    "paralog_len": 373
+  },
+  "SF46_OPSIN": {
+    "name": "Class A Visual GPCRs",
+    "ec": "GPCR",
+    "fold": "7-Transmembrane Helical Bundle",
+    "func_acc": "P02699",
+    "paralog_acc": "P04000",
+    "func_len": 348,
+    "paralog_len": 364
+  },
+  "SF47_NUCLEAR_REC": {
+    "name": "Nuclear Hormone Receptors (LBD)",
+    "ec": "NR",
+    "fold": "3-Layer Alpha-Helical LBD",
+    "func_acc": "P03372",
+    "paralog_acc": "P06401",
+    "func_len": 595,
+    "paralog_len": 933
+  },
+  "SF48_GLOBIN": {
+    "name": "Globins (Hemoglobin vs Myoglobin)",
+    "ec": "Globin",
+    "fold": "Classic 8-Helical Globin Fold",
+    "func_acc": "P69905",
+    "paralog_acc": "P02144",
+    "func_len": 142,
+    "paralog_len": 154
+  },
+  "SF49_VGIC": {
+    "name": "Voltage-Gated Cation Channels (Pore)",
+    "ec": "Channel",
+    "fold": "6-TM Voltage-Gated Tetramer",
+    "func_acc": "P35498",
+    "paralog_acc": "P22459",
+    "func_len": 2009,
+    "paralog_len": 653
+  },
+  "SF50_AFP": {
+    "name": "Type I Antifreeze Proteins",
+    "ec": "AFP",
+    "fold": "Single Extended Alpha-Helix",
+    "func_acc": "P09031",
+    "paralog_acc": "P05140",
+    "func_len": 97,
+    "paralog_len": 163
+  }
+}

@@ -1,0 +1,22 @@
+variant	method	n_pos	n_neg	eff_n_pos	eff_n_neg	ap_baseline	auroc	ap	ap_above_baseline
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	nn_identity	27	91	27.0	91.0	0.2288	0.9265	0.6406	0.4118
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	knn_homology	27	91	27.0	91.0	0.2288	0.9304	0.6449	0.4161
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	composition	27	91	27.0	91.0	0.2288	0.466	0.2277	-0.0011
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	esm2_t12_35M_UR50D:last	27	91	27.0	91.0	0.2288	0.9585	0.7813	0.5525
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	esm2_t12_35M_UR50D:cvlayer4	27	91	27.0	91.0	0.2288	0.9276	0.6564	0.4276
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	esm2_t30_150M_UR50D:last	27	91	27.0	91.0	0.2288	0.917	0.6444	0.4155
+AS PUBLISHED  (n-=91, unweighted, 59 unlabeled paralogs as negatives)	esm2_t30_150M_UR50D:cvlayer4	27	91	27.0	91.0	0.2288	0.9406	0.7485	0.5197
+CLUSTER-WEIGHTED (n-=91, same negatives)	nn_identity	27	91	4.99	81.0	0.058	0.9346	0.335	0.277
+CLUSTER-WEIGHTED (n-=91, same negatives)	knn_homology	27	91	4.99	81.0	0.058	0.951	0.4385	0.3805
+CLUSTER-WEIGHTED (n-=91, same negatives)	composition	27	91	4.99	81.0	0.058	0.6709	0.2291	0.1711
+CLUSTER-WEIGHTED (n-=91, same negatives)	esm2_t12_35M_UR50D:last	27	91	4.99	81.0	0.058	0.9726	0.6625	0.6044
+CLUSTER-WEIGHTED (n-=91, same negatives)	esm2_t12_35M_UR50D:cvlayer4	27	91	4.99	81.0	0.058	0.9503	0.5333	0.4753
+CLUSTER-WEIGHTED (n-=91, same negatives)	esm2_t30_150M_UR50D:last	27	91	4.99	81.0	0.058	0.9307	0.5127	0.4547
+CLUSTER-WEIGHTED (n-=91, same negatives)	esm2_t30_150M_UR50D:cvlayer4	27	91	4.99	81.0	0.058	0.956	0.6973	0.6393
+STRICT  (n-=32, labelled negatives only, weighted)	nn_identity	27	32	4.99	22.0	0.1849	0.9545	0.7079	0.5231
+STRICT  (n-=32, labelled negatives only, weighted)	knn_homology	27	32	4.99	22.0	0.1849	0.9091	0.5576	0.3727
+STRICT  (n-=32, labelled negatives only, weighted)	composition	27	32	4.99	22.0	0.1849	0.6111	0.4313	0.2464
+STRICT  (n-=32, labelled negatives only, weighted)	esm2_t12_35M_UR50D:last	27	32	4.99	22.0	0.1849	0.9858	0.9434	0.7585
+STRICT  (n-=32, labelled negatives only, weighted)	esm2_t12_35M_UR50D:cvlayer4	27	32	4.99	22.0	0.1849	0.9645	0.8524	0.6675
+STRICT  (n-=32, labelled negatives only, weighted)	esm2_t30_150M_UR50D:last	27	32	4.99	22.0	0.1849	0.8867	0.6388	0.4539
+STRICT  (n-=32, labelled negatives only, weighted)	esm2_t30_150M_UR50D:cvlayer4	27	32	4.99	22.0	0.1849	0.9393	0.8294	0.6445

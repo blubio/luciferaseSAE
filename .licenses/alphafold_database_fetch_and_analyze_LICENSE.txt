@@ -1,0 +1,6 @@
+AlphaFold Database usage notice
+Timestamp: 2026-11-10T05:00:30-03:00
+
+This project retrieves data from the AlphaFold Protein Structure Database.
+The user was notified to check the terms at:
+  - https://alphafold.ebi.ac.uk/

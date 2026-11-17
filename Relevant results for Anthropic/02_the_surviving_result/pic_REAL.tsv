@@ -1,0 +1,9 @@
+analysis	quantity	value
+opsin_lambda_max	n_contrasts	40
+opsin_lambda_max	pic_pearson_r	0.5848
+opsin_lambda_max	pic_pearson_p	7.402e-05
+system1_luminescence	n_contrasts	53
+system1_luminescence	pic_r_esm_vs_phenotype	0.3655
+system1_luminescence	pic_p_esm_vs_phenotype	7.117e-03
+system1_luminescence	pic_r_identity_vs_phenotype	0.2593
+system1_luminescence	pic_p_identity_vs_phenotype	6.075e-02

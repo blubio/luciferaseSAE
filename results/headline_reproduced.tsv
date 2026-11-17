@@ -1,0 +1,17 @@
+quantity	value
+n_positives	27
+effective_positive_clusters	5.00
+n_negatives_reconstructed	31
+identity_auroc	0.9545
+identity_ap	0.7082
+esm2_35M_auroc	0.9832
+esm2_35M_ap	0.9364
+delta_ap	+0.2281
+permutation_p_two_sided	0.0070
+permutation_null_mean_sd	-0.0027 +/- 0.0944
+bootstrap_ci95_lo	-0.1667
+bootstrap_ci95_hi	+0.5375
+bootstrap_frac_favouring_esm2	0.606
+n_clusters_resampled	28
+n_draws	2000
+seed	0

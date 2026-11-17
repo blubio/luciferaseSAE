@@ -1,0 +1,99 @@
+[
+ [
+  [
+   "4G36 (Photinus Firefly WT)",
+   "S",
+   3.6377561765461954,
+   3.6377561765461954,
+   -1.6721038635136367,
+   -1.6723546630848949,
+   3.6377561765461954,
+   -1.402502929669033
+  ],
+  [
+   "6AAA (Amydetes Firefly WT)",
+   "S",
+   3.3971808338406326,
+   3.396860669327455,
+   -2.214335404621107,
+   -2.2152190370032683,
+   3.4653984930187693,
+   -1.829756538017134
+  ],
+  [
+   "7KYD (Drosophila CG6178 FruitFire WT)",
+   "L",
+   3.1797596781000315,
+   3.1014596269232366,
+   -2.5805571527898366,
+   -2.617700620882745,
+   3.740966390313643,
+   -1.6550152629007584
+  ]
+ ],
+ [
+  [
+   "CG6178 (Drosophila FruitFire)",
+   "Out-of-Clade Firefly-Train SAE (Unmasked Test Input)",
+   -3.551225185394287,
+   2.3317322731018066,
+   5.882957458496094
+  ],
+  [
+   "CG6178 (Drosophila FruitFire)",
+   "Protocol A (Masked <mask>_347 Test Input + Firefly-Train SAE)",
+   -0.15649032592773438,
+   2.6330723762512207,
+   2.789562702178955
+  ],
+  [
+   "CG6178 (Drosophila FruitFire)",
+   "Protocol B (Masked <mask>_347 + Neighbor-Only r!=347 SAE)",
+   -0.15649032592773438,
+   0.807141900062561,
+   0.9636322259902954
+  ],
+  [
+   "A0A0C6DRW5 (Pectocera 58.5% ID)",
+   "Out-of-Clade Firefly-Train SAE (Unmasked Test Input)",
+   -3.2065539360046387,
+   3.6918387413024902,
+   6.898392677307129
+  ],
+  [
+   "A0A0C6DRW5 (Pectocera 58.5% ID)",
+   "Protocol A (Masked <mask>_347 Test Input + Firefly-Train SAE)",
+   0.1695098876953125,
+   3.880692481994629,
+   3.7111825942993164
+  ],
+  [
+   "A0A0C6DRW5 (Pectocera 58.5% ID)",
+   "Protocol B (Masked <mask>_347 + Neighbor-Only r!=347 SAE)",
+   0.1695098876953125,
+   0.9541935920715332,
+   0.7846837043762207
+  ],
+  [
+   "A0A8K0C7P5 (Ignelater Decoy 54.6% ID)",
+   "Out-of-Clade Firefly-Train SAE (Unmasked Test Input)",
+   -3.6769049167633057,
+   2.1003265380859375,
+   5.777231454849243
+  ],
+  [
+   "A0A8K0C7P5 (Ignelater Decoy 54.6% ID)",
+   "Protocol A (Masked <mask>_347 Test Input + Firefly-Train SAE)",
+   -0.13033771514892578,
+   2.6687769889831543,
+   2.79911470413208
+  ],
+  [
+   "A0A8K0C7P5 (Ignelater Decoy 54.6% ID)",
+   "Protocol B (Masked <mask>_347 + Neighbor-Only r!=347 SAE)",
+   -0.13033771514892578,
+   0.15800189971923828,
+   0.28833961486816406
+  ]
+ ]
+]

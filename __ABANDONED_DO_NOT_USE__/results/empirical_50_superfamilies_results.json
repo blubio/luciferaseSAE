@@ -1,0 +1,802 @@
+[
+  {
+    "sf_id": "SF01_ANL",
+    "name": "ANL Luciferase vs Acyl-CoA Synthetase",
+    "n_seqs": 2,
+    "dense_similarity": 0.9919888377189636,
+    "sae_similarity": 0.9343957901000977,
+    "sae_orthogonality": 0.06560420989990234,
+    "dense_distance": 0.008011162281036377,
+    "mean_l0": 6.0,
+    "top_differential_feature": 9977,
+    "top_feature_magnitude": 0.08151617646217346,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF02_SDR",
+    "name": "Short-Chain Dehydrogenases (SDR)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9781807065010071,
+    "sae_similarity": 0.5736075639724731,
+    "sae_orthogonality": 0.42639243602752686,
+    "dense_distance": 0.02181929349899292,
+    "mean_l0": 6.5,
+    "top_differential_feature": 8431,
+    "top_feature_magnitude": 0.44009163975715637,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF03_CYP",
+    "name": "Cytochrome P450 Monooxygenases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9997241497039795,
+    "sae_similarity": 0.9973840117454529,
+    "sae_orthogonality": 0.002615988254547119,
+    "dense_distance": 0.0002758502960205078,
+    "mean_l0": 8.0,
+    "top_differential_feature": 9672,
+    "top_feature_magnitude": 0.025618748739361763,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF04_ADH",
+    "name": "Medium-Chain Alcohol Dehydrogenases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9999606013298035,
+    "sae_similarity": 0.9999149441719055,
+    "sae_orthogonality": 8.505582809448242e-05,
+    "dense_distance": 3.93986701965332e-05,
+    "mean_l0": 5.0,
+    "top_differential_feature": 10230,
+    "top_feature_magnitude": 0.003953561186790466,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF05_LDH_MDH",
+    "name": "Lactate vs Malate Dehydrogenase",
+    "n_seqs": 2,
+    "dense_similarity": 0.9963924288749695,
+    "sae_similarity": 0.9718274474143982,
+    "sae_orthogonality": 0.028172552585601807,
+    "dense_distance": 0.0036075711250305176,
+    "mean_l0": 5.5,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.1155029907822609,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF06_FMO",
+    "name": "Flavin-Containing Monooxygenases",
+    "n_seqs": 2,
+    "dense_similarity": 0.999792754650116,
+    "sae_similarity": 0.9996534585952759,
+    "sae_orthogonality": 0.0003465414047241211,
+    "dense_distance": 0.0002072453498840332,
+    "mean_l0": 7.5,
+    "top_differential_feature": 2733,
+    "top_feature_magnitude": 0.008997894823551178,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF07_SOD",
+    "name": "Superoxide Dismutase (Cu-Zn)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9997386932373047,
+    "sae_similarity": 0.9990505576133728,
+    "sae_orthogonality": 0.0009494423866271973,
+    "dense_distance": 0.0002613067626953125,
+    "mean_l0": 17.5,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.024059370160102844,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF08_PRX",
+    "name": "Peroxiredoxins (1-Cys vs 2-Cys)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9959476590156555,
+    "sae_similarity": 0.9293906688690186,
+    "sae_orthogonality": 0.07060933113098145,
+    "dense_distance": 0.004052340984344482,
+    "mean_l0": 5.0,
+    "top_differential_feature": 4186,
+    "top_feature_magnitude": 0.0734211727976799,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF09_GAPDH",
+    "name": "Glyceraldehyde-3-Phosphate DH",
+    "n_seqs": 2,
+    "dense_similarity": 0.9999646544456482,
+    "sae_similarity": 0.999824583530426,
+    "sae_orthogonality": 0.0001754164695739746,
+    "dense_distance": 3.534555435180664e-05,
+    "mean_l0": 5.0,
+    "top_differential_feature": 1967,
+    "top_feature_magnitude": 0.0021846741437911987,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF10_MAO",
+    "name": "Monoamine Oxidase (MAO-A vs MAO-B)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9996269941329956,
+    "sae_similarity": 0.9995815753936768,
+    "sae_orthogonality": 0.0004184246063232422,
+    "dense_distance": 0.00037300586700439453,
+    "mean_l0": 7.0,
+    "top_differential_feature": 6584,
+    "top_feature_magnitude": 0.008314892649650574,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF11_KINASE",
+    "name": "Protein Kinases (Tyr vs Ser/Thr)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9602487087249756,
+    "sae_similarity": 0.0,
+    "sae_orthogonality": 1.0,
+    "dense_distance": 0.039751291275024414,
+    "mean_l0": 3.0,
+    "top_differential_feature": 9762,
+    "top_feature_magnitude": 0.2974468171596527,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF12_AMINOTRANS",
+    "name": "PLP Aminotransferases (Asp vs Ala)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9884982109069824,
+    "sae_similarity": 0.66141676902771,
+    "sae_orthogonality": 0.33858323097229004,
+    "dense_distance": 0.011501789093017578,
+    "mean_l0": 9.0,
+    "top_differential_feature": 2551,
+    "top_feature_magnitude": 0.15643706917762756,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF13_GST",
+    "name": "Glutathione S-Transferases (Alpha vs Mu)",
+    "n_seqs": 2,
+    "dense_similarity": 0.997174859046936,
+    "sae_similarity": 0.9882110357284546,
+    "sae_orthogonality": 0.01178896427154541,
+    "dense_distance": 0.002825140953063965,
+    "mean_l0": 11.5,
+    "top_differential_feature": 5511,
+    "top_feature_magnitude": 0.06513699889183044,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF14_HEXOKINASE",
+    "name": "Hexokinase vs Glucokinase",
+    "n_seqs": 2,
+    "dense_similarity": 0.9989761114120483,
+    "sae_similarity": 0.9967385530471802,
+    "sae_orthogonality": 0.0032614469528198242,
+    "dense_distance": 0.0010238885879516602,
+    "mean_l0": 11.0,
+    "top_differential_feature": 9855,
+    "top_feature_magnitude": 0.03900778293609619,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF15_METHYLTRANS",
+    "name": "SAM-Dependent Methyltransferases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9565435647964478,
+    "sae_similarity": 0.0,
+    "sae_orthogonality": 1.0,
+    "dense_distance": 0.043456435203552246,
+    "mean_l0": 6.0,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.16342104971408844,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF16_UGT",
+    "name": "UDP-Glucuronosyltransferases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9996742010116577,
+    "sae_similarity": 0.9990909099578857,
+    "sae_orthogonality": 0.0009090900421142578,
+    "dense_distance": 0.00032579898834228516,
+    "mean_l0": 8.0,
+    "top_differential_feature": 2585,
+    "top_feature_magnitude": 0.013814076781272888,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF17_SULT",
+    "name": "Cytosolic Sulfotransferases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9999843835830688,
+    "sae_similarity": 0.9999703168869019,
+    "sae_orthogonality": 2.968311309814453e-05,
+    "dense_distance": 1.5616416931152344e-05,
+    "mean_l0": 18.0,
+    "top_differential_feature": 5511,
+    "top_feature_magnitude": 0.003558933734893799,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF18_GNAT",
+    "name": "Gcn5-Related N-Acetyltransferases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9950957894325256,
+    "sae_similarity": 0.9175869226455688,
+    "sae_orthogonality": 0.08241307735443115,
+    "dense_distance": 0.004904210567474365,
+    "mean_l0": 12.5,
+    "top_differential_feature": 6792,
+    "top_feature_magnitude": 0.10493586957454681,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF19_PFK",
+    "name": "Phosphofructokinases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9998307228088379,
+    "sae_similarity": 0.9994198083877563,
+    "sae_orthogonality": 0.0005801916122436523,
+    "dense_distance": 0.00016927719116210938,
+    "mean_l0": 10.0,
+    "top_differential_feature": 6005,
+    "top_feature_magnitude": 0.005760263651609421,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF20_DNAPOL",
+    "name": "DNA Polymerase Family A",
+    "n_seqs": 2,
+    "dense_similarity": 0.9932457208633423,
+    "sae_similarity": 0.7583809494972229,
+    "sae_orthogonality": 0.2416190505027771,
+    "dense_distance": 0.006754279136657715,
+    "mean_l0": 5.0,
+    "top_differential_feature": 504,
+    "top_feature_magnitude": 0.08738113939762115,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF21_SER_PROT",
+    "name": "Serine Proteases (Trypsin vs Chymotrypsin)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9988560676574707,
+    "sae_similarity": 0.9977567195892334,
+    "sae_orthogonality": 0.0022432804107666016,
+    "dense_distance": 0.0011439323425292969,
+    "mean_l0": 9.0,
+    "top_differential_feature": 9275,
+    "top_feature_magnitude": 0.03840383514761925,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF22_BLACTAM",
+    "name": "Serine Beta-Lactamases (Class A vs C)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9613499641418457,
+    "sae_similarity": 0.30196189880371094,
+    "sae_orthogonality": 0.6980381011962891,
+    "dense_distance": 0.0386500358581543,
+    "mean_l0": 7.0,
+    "top_differential_feature": 4827,
+    "top_feature_magnitude": 0.2843620181083679,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF23_LIPASE",
+    "name": "Alpha/Beta Hydrolase Lipases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9982821941375732,
+    "sae_similarity": 0.9780353307723999,
+    "sae_orthogonality": 0.021964669227600098,
+    "dense_distance": 0.0017178058624267578,
+    "mean_l0": 6.0,
+    "top_differential_feature": 5223,
+    "top_feature_magnitude": 0.05578438192605972,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF24_DEHALO",
+    "name": "Haloalkane Dehalogenases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9982749819755554,
+    "sae_similarity": 0.9858142137527466,
+    "sae_orthogonality": 0.014185786247253418,
+    "dense_distance": 0.00172501802444458,
+    "mean_l0": 5.5,
+    "top_differential_feature": 1117,
+    "top_feature_magnitude": 0.058684125542640686,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF25_ALKP",
+    "name": "Alkaline Phosphatases",
+    "n_seqs": 2,
+    "dense_similarity": 0.999811053276062,
+    "sae_similarity": 0.999130368232727,
+    "sae_orthogonality": 0.0008696317672729492,
+    "dense_distance": 0.00018894672393798828,
+    "mean_l0": 11.0,
+    "top_differential_feature": 5218,
+    "top_feature_magnitude": 0.013981346040964127,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF26_AMYLASE",
+    "name": "Glycoside Hydrolase Family 13",
+    "n_seqs": 2,
+    "dense_similarity": 0.9999487400054932,
+    "sae_similarity": 0.999903678894043,
+    "sae_orthogonality": 9.632110595703125e-05,
+    "dense_distance": 5.125999450683594e-05,
+    "mean_l0": 8.0,
+    "top_differential_feature": 3590,
+    "top_feature_magnitude": 0.008600205183029175,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF27_CA",
+    "name": "Carbonic Anhydrases (Alpha Family)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9996232986450195,
+    "sae_similarity": 0.9963610172271729,
+    "sae_orthogonality": 0.0036389827728271484,
+    "dense_distance": 0.00037670135498046875,
+    "mean_l0": 16.0,
+    "top_differential_feature": 7524,
+    "top_feature_magnitude": 0.02694537118077278,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF28_PDE",
+    "name": "Cyclic Nucleotide Phosphodiesterases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9071553349494934,
+    "sae_similarity": 0.153276264667511,
+    "sae_orthogonality": 0.846723735332489,
+    "dense_distance": 0.09284466505050659,
+    "mean_l0": 9.5,
+    "top_differential_feature": 2929,
+    "top_feature_magnitude": 0.4364791512489319,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF29_EPH",
+    "name": "Epoxide Hydrolases",
+    "n_seqs": 2,
+    "dense_similarity": 0.958482027053833,
+    "sae_similarity": 0.3654753565788269,
+    "sae_orthogonality": 0.6345246434211731,
+    "dense_distance": 0.04151797294616699,
+    "mean_l0": 11.0,
+    "top_differential_feature": 5511,
+    "top_feature_magnitude": 0.5464498400688171,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF30_SMALL_GTP",
+    "name": "Ras Superfamily Small GTPases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9984561204910278,
+    "sae_similarity": 0.9978624582290649,
+    "sae_orthogonality": 0.0021375417709350586,
+    "dense_distance": 0.001543879508972168,
+    "mean_l0": 12.0,
+    "top_differential_feature": 2974,
+    "top_feature_magnitude": 0.03188475966453552,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF31_ALDOLASE",
+    "name": "Fructose-Bisphosphate Aldolase",
+    "n_seqs": 2,
+    "dense_similarity": 0.9997472763061523,
+    "sae_similarity": 0.9293316006660461,
+    "sae_orthogonality": 0.07066839933395386,
+    "dense_distance": 0.00025272369384765625,
+    "mean_l0": 3.0,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.05499357730150223,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF32_AADC",
+    "name": "PLP Decarboxylases (Group II)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9994210600852966,
+    "sae_similarity": 0.9906818866729736,
+    "sae_orthogonality": 0.009318113327026367,
+    "dense_distance": 0.0005789399147033691,
+    "mean_l0": 9.0,
+    "top_differential_feature": 9067,
+    "top_feature_magnitude": 0.027318814769387245,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF33_ENOLASE",
+    "name": "Enolases (Alpha vs Gamma)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9999592900276184,
+    "sae_similarity": 0.9999672770500183,
+    "sae_orthogonality": 3.272294998168945e-05,
+    "dense_distance": 4.07099723815918e-05,
+    "mean_l0": 5.0,
+    "top_differential_feature": 2650,
+    "top_feature_magnitude": 0.0016993880271911621,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF34_TERPENE",
+    "name": "Terpene Synthases (Class I)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9476563334465027,
+    "sae_similarity": 0.7421611547470093,
+    "sae_orthogonality": 0.2578388452529907,
+    "dense_distance": 0.052343666553497314,
+    "mean_l0": 16.0,
+    "top_differential_feature": 8507,
+    "top_feature_magnitude": 0.3028978109359741,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF35_CITRATE",
+    "name": "Citrate Synthases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9999819397926331,
+    "sae_similarity": 0.9999611377716064,
+    "sae_orthogonality": 3.886222839355469e-05,
+    "dense_distance": 1.806020736694336e-05,
+    "mean_l0": 11.5,
+    "top_differential_feature": 1647,
+    "top_feature_magnitude": 0.0035818517208099365,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF36_TIM",
+    "name": "Triosephosphate Isomerase",
+    "n_seqs": 2,
+    "dense_similarity": 0.9998903870582581,
+    "sae_similarity": 0.997734546661377,
+    "sae_orthogonality": 0.002265453338623047,
+    "dense_distance": 0.00010961294174194336,
+    "mean_l0": 6.5,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.030991703271865845,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF37_PPIASE",
+    "name": "Peptidyl-Prolyl Cis-Trans Isomerases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9086468815803528,
+    "sae_similarity": 0.09069075435400009,
+    "sae_orthogonality": 0.9093092456459999,
+    "dense_distance": 0.09135311841964722,
+    "mean_l0": 10.0,
+    "top_differential_feature": 7030,
+    "top_feature_magnitude": 0.5831198692321777,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF38_TOPO",
+    "name": "DNA Topoisomerases (Type I)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9078899025917053,
+    "sae_similarity": 0.0,
+    "sae_orthogonality": 1.0,
+    "dense_distance": 0.09211009740829468,
+    "mean_l0": 4.0,
+    "top_differential_feature": 2130,
+    "top_feature_magnitude": 0.23410163819789886,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF39_RACEMASE",
+    "name": "Alanine Racemases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9997414946556091,
+    "sae_similarity": 0.9976650476455688,
+    "sae_orthogonality": 0.0023349523544311523,
+    "dense_distance": 0.00025850534439086914,
+    "mean_l0": 5.0,
+    "top_differential_feature": 4727,
+    "top_feature_magnitude": 0.010871939361095428,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF40_CHORISMATE",
+    "name": "Chorismate Mutases (AroH family)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9995085000991821,
+    "sae_similarity": 0.9978955984115601,
+    "sae_orthogonality": 0.0021044015884399414,
+    "dense_distance": 0.0004914999008178711,
+    "mean_l0": 7.0,
+    "top_differential_feature": 1754,
+    "top_feature_magnitude": 0.012253344058990479,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF41_AARS",
+    "name": "Aminoacyl-tRNA Synthetases (Class I)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9486597776412964,
+    "sae_similarity": 0.4098207652568817,
+    "sae_orthogonality": 0.5901792347431183,
+    "dense_distance": 0.05134022235870361,
+    "mean_l0": 9.5,
+    "top_differential_feature": 6923,
+    "top_feature_magnitude": 0.25926637649536133,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF42_E3_LIGASE",
+    "name": "HECT Domain E3 Ubiquitin Ligases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9480735063552856,
+    "sae_similarity": 0.0,
+    "sae_orthogonality": 1.0,
+    "dense_distance": 0.051926493644714355,
+    "mean_l0": 10.0,
+    "top_differential_feature": 8976,
+    "top_feature_magnitude": 0.41323423385620117,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF43_DNALIG",
+    "name": "ATP-Dependent DNA Ligases",
+    "n_seqs": 2,
+    "dense_similarity": 0.9849119186401367,
+    "sae_similarity": 0.9523042440414429,
+    "sae_orthogonality": 0.04769575595855713,
+    "dense_distance": 0.015088081359863281,
+    "mean_l0": 6.5,
+    "top_differential_feature": 1916,
+    "top_feature_magnitude": 0.07858750224113464,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF44_BIOTINLIG",
+    "name": "Biotin Protein Ligases (BirA/BPL)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9089070558547974,
+    "sae_similarity": 0.0,
+    "sae_orthogonality": 1.0,
+    "dense_distance": 0.09109294414520264,
+    "mean_l0": 8.5,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.27554354071617126,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF45_GS",
+    "name": "Glutamine Synthetase",
+    "n_seqs": 2,
+    "dense_similarity": 0.9998206496238708,
+    "sae_similarity": 0.9955505132675171,
+    "sae_orthogonality": 0.00444948673248291,
+    "dense_distance": 0.0001793503761291504,
+    "mean_l0": 8.0,
+    "top_differential_feature": 5996,
+    "top_feature_magnitude": 0.07255710661411285,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF46_OPSIN",
+    "name": "Class A Visual GPCRs",
+    "n_seqs": 2,
+    "dense_similarity": 0.9992024898529053,
+    "sae_similarity": 0.9951705932617188,
+    "sae_orthogonality": 0.00482940673828125,
+    "dense_distance": 0.0007975101470947266,
+    "mean_l0": 4.5,
+    "top_differential_feature": 6411,
+    "top_feature_magnitude": 0.022080715745687485,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF47_NUCLEAR_REC",
+    "name": "Nuclear Hormone Receptors (LBD)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9519799947738647,
+    "sae_similarity": 0.08645953238010406,
+    "sae_orthogonality": 0.9135404676198959,
+    "dense_distance": 0.048020005226135254,
+    "mean_l0": 9.0,
+    "top_differential_feature": 2089,
+    "top_feature_magnitude": 0.3348270058631897,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF48_GLOBIN",
+    "name": "Globins (Hemoglobin vs Myoglobin)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9978650808334351,
+    "sae_similarity": 0.9911785125732422,
+    "sae_orthogonality": 0.008821487426757812,
+    "dense_distance": 0.0021349191665649414,
+    "mean_l0": 11.5,
+    "top_differential_feature": 4909,
+    "top_feature_magnitude": 0.03537929058074951,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF49_VGIC",
+    "name": "Voltage-Gated Cation Channels (Pore)",
+    "n_seqs": 2,
+    "dense_similarity": 0.9709160327911377,
+    "sae_similarity": 0.5925115942955017,
+    "sae_orthogonality": 0.4074884057044983,
+    "dense_distance": 0.029083967208862305,
+    "mean_l0": 4.5,
+    "top_differential_feature": 9970,
+    "top_feature_magnitude": 0.1577834039926529,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "sf_id": "SF50_AFP",
+    "name": "Type I Antifreeze Proteins",
+    "n_seqs": 2,
+    "dense_similarity": 0.8995437026023865,
+    "sae_similarity": 0.0031934473663568497,
+    "sae_orthogonality": 0.9968065526336432,
+    "dense_distance": 0.10045629739761353,
+    "mean_l0": 10.0,
+    "top_differential_feature": 8595,
+    "top_feature_magnitude": 0.3815118372440338,
+    "f14202_vals": [
+      0.0,
+      0.0
+    ]
+  }
+]

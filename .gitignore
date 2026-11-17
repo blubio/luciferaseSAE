@@ -1,0 +1,24 @@
+# Large regenerable artefacts (not source).
+# HuggingFace model weights, ~10.5 GB
+.cache/
+.venv/
+__pycache__/
+*.pyc
+
+# Cached embeddings and SAE activations; regenerate with scripts/embed.py
+results/embeddings/
+
+# MD trajectories; regenerate with notebooks/holo_md_slu_parameterized.ipynb
+md_trajectories_10ns/
+md_trajectories_10ns.zip
+holo_md_and_results/
+holo_md_and_results.zip
+*.dcd
+
+# Scratch renders
+_view_*.png
+
+# Deliberately TRACKED despite being derived:
+#   results/*.tsv, results/*.json, results/figures/  every number in the manuscript
+#   data/structures/*.cif                            inputs, 3.8 MB, keeps the repo self-contained
+#   __ABANDONED_DO_NOT_USE__/                        retracted work, kept as evidence

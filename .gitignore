@@ -22,3 +22,6 @@ _view_*.png
 #   results/*.tsv, results/*.json, results/figures/  every number in the manuscript
 #   data/structures/*.cif                            inputs, 3.8 MB, keeps the repo self-contained
 #   __ABANDONED_DO_NOT_USE__/                        retracted work, kept as evidence
+
+# Raw session transcript - kept locally, deliberately not published
+conversation_history.md
